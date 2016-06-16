@@ -1,6 +1,8 @@
 Anchore
 =======
 
+*See the wiki at https://github.com/anchore/anchore/wiki for more documentation.*
+
 Anchore is a container inspection and analytics platform to enable
 operators to deploy containers with confidence. The Anchore toolset in
 this repository provides the ability to inspect, reason about, and
